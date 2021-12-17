@@ -1,0 +1,5 @@
+{
+    "uri": "http://145.24.222.204:8002/api/", 
+    "uitleg": "makkelijkste 10 ooit.",
+    "fields": ["attr1", "attr2", "attr3"]
+}
